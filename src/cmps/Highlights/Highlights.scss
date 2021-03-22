@@ -1,0 +1,29 @@
+.highlights-menu {
+    background-color: #111111;
+    color: white;
+    height: 761px;
+    & .highlights-container {
+        width: 1110px;
+        height: 441px;
+        padding: 200px 165px 120px;
+        & .description {
+            margin-right: 125px;
+            & h1 {
+                width: 455px;
+                font-weight: 700;
+                font-size: 40px;
+                line-height: 56px;
+                letter-spacing: -0.5px;
+            }
+            & p {
+                font-weight: 400;
+                font-size: 18px;
+            }
+        }
+    }
+    @media screen and (max-width: 456px) {
+        .highlights-container {
+            flex-direction: column;
+        }
+    }
+}

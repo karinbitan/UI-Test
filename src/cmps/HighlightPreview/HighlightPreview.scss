@@ -1,0 +1,14 @@
+.highlight-preview {
+    width: 540px;
+    height: 96px;
+    margin-bottom: 24px;
+    padding-bottom: 24px;
+    &:not(:last-child) {
+        border-bottom: 1px solid rgba(255, 255, 255, 14.9%);
+    }
+    & .item-img {
+        // width: 128px;
+        // height: 96px;
+        margin-right: 30px;
+    }
+}

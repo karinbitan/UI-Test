@@ -1,0 +1,32 @@
+.hero {
+    background-image: url("../../assets/images/homepage/hero-bg-desktop.jpg");
+    color: white;
+    height: 820px;
+    & .description {
+        width: 523px;
+        height: 364px;
+        padding: 258px 752px 198px 165px;
+        & h1 {
+            width: 523px;
+            font-weight: 300;
+            font-size: 64px;
+            line-height: 72px;
+            letter-spacing: -0.8px;
+        }
+        & p {
+            width: 523px;
+            font-weight: 400;
+            font-size: 18px;
+        }
+        & .book-table-btn{
+            width: 245px;
+            height: 64px;
+            font-weight: 600;
+            font-size: 14px;
+            line-height: 16px;
+            border: 1px solid white;
+            color: white;
+            background-color: unset;
+        }
+    }
+}
