@@ -1,22 +1,29 @@
 {
   "files": {
-    "main.css": "/UI-Test/static/css/main.6e9abd35.chunk.css",
-    "main.js": "/UI-Test/static/js/main.6effaf92.chunk.js",
-    "main.js.map": "/UI-Test/static/js/main.6effaf92.chunk.js.map",
-    "runtime-main.js": "/UI-Test/static/js/runtime-main.1e41a390.js",
-    "runtime-main.js.map": "/UI-Test/static/js/runtime-main.1e41a390.js.map",
-    "static/js/2.fa0434a9.chunk.js": "/UI-Test/static/js/2.fa0434a9.chunk.js",
-    "static/js/2.fa0434a9.chunk.js.map": "/UI-Test/static/js/2.fa0434a9.chunk.js.map",
-    "static/js/3.60aa7dd0.chunk.js": "/UI-Test/static/js/3.60aa7dd0.chunk.js",
-    "static/js/3.60aa7dd0.chunk.js.map": "/UI-Test/static/js/3.60aa7dd0.chunk.js.map",
+    "main.css": "/UI-Test/static/css/main.fa35f1f1.chunk.css",
+    "main.js": "/UI-Test/static/js/main.484415d6.chunk.js",
+    "main.js.map": "/UI-Test/static/js/main.484415d6.chunk.js.map",
+    "runtime-main.js": "/UI-Test/static/js/runtime-main.e0d217d7.js",
+    "runtime-main.js.map": "/UI-Test/static/js/runtime-main.e0d217d7.js.map",
+    "static/js/2.267411db.chunk.js": "/UI-Test/static/js/2.267411db.chunk.js",
+    "static/js/2.267411db.chunk.js.map": "/UI-Test/static/js/2.267411db.chunk.js.map",
+    "static/js/3.28bac0af.chunk.js": "/UI-Test/static/js/3.28bac0af.chunk.js",
+    "static/js/3.28bac0af.chunk.js.map": "/UI-Test/static/js/3.28bac0af.chunk.js.map",
     "index.html": "/UI-Test/index.html",
-    "static/css/main.6e9abd35.chunk.css.map": "/UI-Test/static/css/main.6e9abd35.chunk.css.map",
-    "static/js/2.fa0434a9.chunk.js.LICENSE.txt": "/UI-Test/static/js/2.fa0434a9.chunk.js.LICENSE.txt"
+    "static/css/main.fa35f1f1.chunk.css.map": "/UI-Test/static/css/main.fa35f1f1.chunk.css.map",
+    "static/js/2.267411db.chunk.js.LICENSE.txt": "/UI-Test/static/js/2.267411db.chunk.js.LICENSE.txt",
+    "static/media/enjoyable-place-desktop.06399aa5.jpg": "/UI-Test/static/media/enjoyable-place-desktop.06399aa5.jpg",
+    "static/media/family-gathering-desktop.03b16029.jpg": "/UI-Test/static/media/family-gathering-desktop.03b16029.jpg",
+    "static/media/Hero.scss": "/UI-Test/static/media/hero-bg-desktop.b1340563.jpg",
+    "static/media/locally-sourced-desktop.957d3e79.jpg": "/UI-Test/static/media/locally-sourced-desktop.957d3e79.jpg",
+    "static/media/menu-item1.7bd94a87.jpg": "/UI-Test/static/media/menu-item1.7bd94a87.jpg",
+    "static/media/menu-item2.81249e77.jpg": "/UI-Test/static/media/menu-item2.81249e77.jpg",
+    "static/media/menu-item3.22eddbf1.jpg": "/UI-Test/static/media/menu-item3.22eddbf1.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.1e41a390.js",
-    "static/js/2.fa0434a9.chunk.js",
-    "static/css/main.6e9abd35.chunk.css",
-    "static/js/main.6effaf92.chunk.js"
+    "static/js/runtime-main.e0d217d7.js",
+    "static/js/2.267411db.chunk.js",
+    "static/css/main.fa35f1f1.chunk.css",
+    "static/js/main.484415d6.chunk.js"
   ]
 }
